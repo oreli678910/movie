@@ -6,7 +6,7 @@
     "year": 2021,
     "genre": "Action",
     "rating": 8.5,
-    "image": "https://example.com/spiderman.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/he/thumb/6/68/Friendly_Neighborhood_Spider-Man_Vol_2_1_Stanley_Lau_Variant.jpg/375px-Friendly_Neighborhood_Spider-Man_Vol_2_1_Stanley_Lau_Variant.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "year": 2021,
     "genre": "Science Fiction",
     "rating": 8.3,
-    "image": "https://example.com/dune.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/he/thumb/7/78/Dune_Official_Poster.jpg/1200px-Dune_Official_Poster.jpg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "year": 2021,
     "genre": "Comedy",
     "rating": 7.6,
-    "image": "https://example.com/french-dispatch.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/he/thumb/1/17/The_French_Dispatch.jpg/625px-The_French_Dispatch.jpg"
   },
   {
     "id": 4,
@@ -33,6 +33,6 @@
     "year": 2021,
     "genre": "Drama",
     "rating": 7.4,
-    "image": "https://example.com/power-of-the-dog.jpg"
+    "image": "https://cdn.cinematerial.com/p/297x/nnftuaja/the-power-of-the-dog-movie-poster-md.jpg?v=1636480620"
   }
 ]
